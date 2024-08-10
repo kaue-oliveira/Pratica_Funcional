@@ -2,8 +2,8 @@
 --Universidade Federal de Lavras
 --Curso: Ciência da Computação
 --Disciplina: Paradigmas de Linguagens de Programação
---Membro 1: Kauê de Oliveira Silva    nº de matrícula: 202310532 
---Membro 2: Thiago Ferreira Azevedo   nº de matrícula: 202311097      
+--Membro 1: Kauê de Oliveira Silva    nº de matrícula: ********* 
+--Membro 2: Thiago Ferreira Azevedo   nº de matrícula: *********      
 --Designação: Grupo 1 de questões
 ----------------------------------------------------------------------------------------------------------
 
